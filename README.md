@@ -1,5 +1,5 @@
 # 💫 About Me:
-computer I'm currently working as a backend developer at The Entertainers.<br>mortar_board I have a Bachelor's in Computer Science from the University of Engineering and Technology, Lahore.<br>seedling I'm constantly learning and exploring new technologies to improve my skills.<br>handshake I'm a team player and love collaborating to achieve shared goals.<br>books In my free time, I enjoy reading tech blogs and articles, and working on personal coding projects.
+💻 I'm currently working as a backend developer at The Entertainers.<br>🎓 I have a Bachelor's in Computer Science from the University of Engineering and Technology, Lahore.<br>🌱 I'm constantly learning and exploring new technologies to improve my skills.<br>🤝 I'm a team player and love collaborating to achieve shared goals.<br>📚 In my free time, I enjoy reading tech blogs and articles, and working on personal coding projects.
 
 
 ## 🌐 Socials:
